@@ -1,0 +1,5 @@
+x=5
+IF(x.eq.5) then
+  write(*,*) x=5
+endif
+end
