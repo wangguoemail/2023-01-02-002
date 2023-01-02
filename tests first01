@@ -1,0 +1,5 @@
+real x(8)
+do i=1,8
+   x(i)= i*i
+end do
+end
